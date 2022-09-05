@@ -1,4 +1,5 @@
 # ProtoEditor.com
+<<<<<<< HEAD
 
 ## Quick start
 
@@ -16,3 +17,5 @@
     Your site is now running at http://localhost:8000!
 
     Edit `src/pages/index.tsx` to see your site update in real-time!
+=======
+>>>>>>> ca058104ac2ec46ed0117a0094f35930b9afd3ff
